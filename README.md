@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to IT MORNING BATCH 2016-2020 Pages
 
 You can use the [editor on GitHub](https://github.com/Rishabkhanal/IT-MORNING-BATCH-2016-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `` text
 
 [Link](url) and ![Image](src)
 ```
